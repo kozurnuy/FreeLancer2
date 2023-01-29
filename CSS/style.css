@@ -1,0 +1,16 @@
+header {
+  background-color: rgb(41, 108, 175);
+  font-style: 10px;
+}
+
+body {
+  font-style: 20px;
+}
+
+div {
+  font-style: 10px;
+}
+
+h1 {
+  color: rgb(48, 116, 21);
+}

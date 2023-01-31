@@ -37,22 +37,25 @@ img{vertical-align: top;}
 h1,h2,h3,h4,h5,h6{font-size: inherit;font-weight: 400;}
 /*---------------------------------------------------------*/
 
-.example-block {
-    min-width: 900px;
-border: 1px solid #000;
-background: rgb(105, 58, 58);
+.exzample-block {
+    
+    box-shadow: 10px 10px 10px 5px rgb(6, 65, 230) , inset 10px 10px 10px 5px rgb(236, 221, 7);
+    font-size: 30px;
+   border-radius: 50px;
+margin: 50px;
+padding: 30px;
+    
+    
+
 }
 
-.example-string {
-width: 1px;
-border: 1px solid #000;
-background: rgb(155, 38, 38);
-line-height: 25px;
+.exzample-string {
+    border: 10px dotted #000;
+    font-size: 50px;
 }
-.foto{
-    width: 100px;
-    height: 100px;
-    
+
+.exzample-image {
+    border: 10px dashed #000;
 }
 
 

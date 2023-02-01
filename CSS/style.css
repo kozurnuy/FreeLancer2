@@ -73,4 +73,19 @@ h1, h2, h3, h4, h5, h6 {
   font-weight: 400;
 }
 
-/*---------------------------------------------------------*/
+/*----------------------------------------------------*/
+body {
+  padding: 30px;
+}
+
+.block {
+  height: 300px;
+  border: 15px;
+  box-shadow: 1px 1px 10px black;
+  /* Old browsers */
+  background: rgb(236, 232, 157);
+  /* FF3.6-15 */
+  /* Chrome10-25,Safari5.1-6 */
+  /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
+  background: linear-gradient(to bottom, rgb(236, 232, 157) 0%, rgb(94, 83, 115) 50%, rgb(24, 181, 164) 100%);
+}
